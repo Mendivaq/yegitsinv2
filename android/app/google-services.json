@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776968770401",
+    "project_id": "yegitsin-e41a0",
+    "storage_bucket": "yegitsin-e41a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776968770401:android:9026fcd204b56775b92b20",
+        "android_client_info": {
+          "package_name": "com.yegitsin.com.yegitsinv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776968770401-b2qpuqerpfeok9idq2jubit7sp9rrs3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSeF518noL8TL7Xwyb5aRJxIaDDSCcTjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776968770401-b2qpuqerpfeok9idq2jubit7sp9rrs3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
